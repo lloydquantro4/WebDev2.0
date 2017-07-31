@@ -1,2 +1,2 @@
 # WebDev2.0
-Website
+General Website with photo galleries.
