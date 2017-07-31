@@ -1,6 +1,6 @@
-  body {
-    background: #ffffff url("images/cptbackground.jpg") no-repeat right top;
-}
-h1{
-    font-family: monospace
+
+body{
+background-image: url('../images/cptbackground.jpg');
+background-size: cover;
+background-repeat: no-repeat;
 }
