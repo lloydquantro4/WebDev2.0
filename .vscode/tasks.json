@@ -1,8 +1,14 @@
 {
     "version": "0.1.0",
+<<<<<<< HEAD
     "command": "explorer",    
     "windows": {
         "command": "explorer.exe"
+=======
+    "command": "Chrome",
+    "windows": {
+        "command": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+>>>>>>> e5bea57e3017ee8443e276bd91adb08c40a1b983
     },
     "args": ["${file}"]
 }
