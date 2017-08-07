@@ -1,0 +1,7 @@
+photo gallery website.
+product of Alpha Software 2017- we will see how long we will go.
+
+Home page aka index contains the main html page.
+All the dependancies are in the asserts folder ie images, css files, js scripts and bootstrap.
+
+The terms of the licences of the .css, .js i got are in as comments in each file. These give the nice look the page has and a smooth way to scroll  and i included a way to swipe on mobile nicely :).
